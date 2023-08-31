@@ -11324,11 +11324,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ACS\\source\\repos\\Task2MVC\\Task2MVC\\Task2MVC.csproj",
+      "projectUniqueName": "C:\\Users\\ACS\\source\\repos\\Learning_Management_System-aspnet-MVC\\Task2MVC\\Task2MVC.csproj",
       "projectName": "Task2MVC",
-      "projectPath": "C:\\Users\\ACS\\source\\repos\\Task2MVC\\Task2MVC\\Task2MVC.csproj",
+      "projectPath": "C:\\Users\\ACS\\source\\repos\\Learning_Management_System-aspnet-MVC\\Task2MVC\\Task2MVC.csproj",
       "packagesPath": "C:\\Users\\ACS\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ACS\\source\\repos\\Task2MVC\\Task2MVC\\obj\\",
+      "outputPath": "C:\\Users\\ACS\\source\\repos\\Learning_Management_System-aspnet-MVC\\Task2MVC\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ACS\\AppData\\Roaming\\NuGet\\NuGet.Config",

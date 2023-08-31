@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "WKKT2X4JwCv6qfkbfcZKQ3H692XCrG4Rdy4MHhJ1OQ3ORN8KXB9fC8pxj65iBAFJ9fPwHUktqw7IoIkpAqIhVA==",
+  "dgSpecHash": "fzbL1LwVe7bvUWVeiHXy6HvwBjrAvOO58p8LeWGvjLERWXxWuNIagx0ywtrz1rBNuRnuDIGHrFUtQ6+AJCI/2g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ACS\\source\\repos\\Task2MVC\\Task2MVC\\Task2MVC.csproj",
+  "projectFilePath": "C:\\Users\\ACS\\source\\repos\\Learning_Management_System-aspnet-MVC\\Task2MVC\\Task2MVC.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ACS\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\ACS\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",
